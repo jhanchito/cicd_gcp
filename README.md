@@ -1,1 +1,1 @@
-# cicd_gcp
+# gcp_cloudbuild_cicd
